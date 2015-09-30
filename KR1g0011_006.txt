@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 六經奧論
-#+DATE: 2015-09-23 09:41:02
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:18:48.828077
+#+PROPERTY: ID KR1g0011
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1g0011_WYG_006-1a>¶
 欽定四庫全書¶
 　六經奥論卷六　　　　　宋　鄭樵　撰¶
@@ -469,4 +471,3 @@
 　惰農其敎牛耕之力歟不可以不辨¶
 　　後世有牛耕及年號改元之事皆三代所未言¶
 　六經奥論卷六¶
-

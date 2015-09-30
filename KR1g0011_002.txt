@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 六經奧論
-#+DATE: 2015-09-23 09:41:02
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:18:48.750829
+#+PROPERTY: ID KR1g0011
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1g0011_WYG_002-1a>¶
 欽定四庫全書¶
 　六經奥論卷二　　　　　　宋　鄭樵　撰¶
@@ -778,4 +780,3 @@
 　¶
 　¶
 　六經奥論卷二¶
-
